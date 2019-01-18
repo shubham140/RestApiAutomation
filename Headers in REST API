@@ -1,0 +1,6 @@
+What are Headers in Rest API?
+----------------------------------------------------------------------------------------------------------------------------------
+Some times while sending request to the Api we need to verify that we are the right user which allow api to complete the request succesfully and to connect to the database. And this thing is done using key values which are masked due to security reasons to avoid hack in database.Server always first check headers and the data in it and we can also set the content type in response for example--> 
+Content-Type==JSON after validating if the user is right we can set the response type.
+All the session ids which are generated are part of headers only.
+-----------------------------------------------------------------------------------------------------------------------------------
