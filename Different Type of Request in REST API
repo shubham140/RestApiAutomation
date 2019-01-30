@@ -1,0 +1,31 @@
+For a Test automation or i say for testing purpose we have 4 major type of request out of which two type of request are used in very frequently and other two have less usage compared to other two request.
+------------------------------------------------------------------------------------------------------------------------------------
+Following are the Major types of API rest calls:
+
+1. GET CALL
+2. POST CALL
+3. PUT CALL
+4. DELETE CALL
+-------------------------------------------------------------------------------------------------------------------------------------
+
+GET Request --> This calls helps the user to extract data from the database. The type of data we get in response depends on the type of data we send in Request.
+Basic Example of GET call --> BaseUrl/Resources?Parameters=env --> env is the data we send and and according to that we get data in response and basically every Website call is a GET call  and all the data is passed through ENDPOINT ONLY.
+
+Example of get call --> https://www.google.com/search?source=hp&ei=EDBCXNbEF8y4rQHJrpfoDg&q=api+testing&btnK=Google+Search&oq=api+test&gs_l=psy-ab.3.1.35i39j0j0i131j0l7.1130.2573..3840...0.0..1.248.1352.0j9j1......0....1..gws-wiz.....6.BzGWEAUtUbg
+--------------------------------------------------------------------------------------------------------------------------------------
+
+POST CALL --> This calls helps user to add any new data in the database connected with API and all the data we send to add in database is in JSON OR XML format and which is also known as RequestBody or Payload.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+PUT CALL --> This calls helps user to replace or to update any data which is already present in the database connected with API
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+DELETE CALL --> This call helps user to delete the data which is already present in the database which is connected to the API and all the data is send through the Payload only.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+HOPE THIS HELPS TO UNDERSTAND THE DIFFERENT TYPE OF CALLS MADE USING REST API
+
