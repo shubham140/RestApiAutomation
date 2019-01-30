@@ -4,7 +4,7 @@
 package basics;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
+
 import java.util.Properties;
 import static io.restassured.RestAssured.given;
 import org.testng.annotations.BeforeTest;
@@ -40,6 +40,7 @@ public class LibraryApiPostRequest {
 		System.out.printf(jPath.get("ID"));
 		String id=jPath.getString("ID");
 		Response res1=given().body(Parameters.deleteLibraryBook(id)).when().post("/Library/DeleteBook.php").then().log().all().assertThat().statusCode(200).extract().response();
+		@SuppressWarnings("unused")
 		JsonPath jp=FormatConversion.convertToJsonFormat(res1);
 		}
 	

@@ -4,19 +4,11 @@
 package basics;
 
 import io.restassured.RestAssured;
-import io.restassured.http.ContentType;
-import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
-
 import static io.restassured.RestAssured.given;
-import static org.hamcrest.Matchers.equalTo;
-
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-
 import files.FormatConversion;
 import files.Parameters;
 import files.Resources;

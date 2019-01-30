@@ -4,7 +4,7 @@
 package basics;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
+
 import java.util.Properties;
 
 import org.testng.Assert;
@@ -16,7 +16,6 @@ import files.Parameters;
 
 import static io.restassured.RestAssured.given;
 import io.restassured.RestAssured;
-import io.restassured.http.ContentType;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 
