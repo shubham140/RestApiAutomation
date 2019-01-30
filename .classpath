@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/json-path-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/json-schema-validator-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/xml-path-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/scala-support-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/groovy-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/groovy-xml-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/rest-assured-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/groovy-json-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/docs/json-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/docs/json-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/docs/json-schema-validator-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/docs/json-schema-validator-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/docs/rest-assured-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/docs/rest-assured-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/docs/rest-assured-common-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/docs/rest-assured-common-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/docs/xml-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/docs/xml-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/jackson-core-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/jackson-databind-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham/Desktop/API Automation Documents/Downloads/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
